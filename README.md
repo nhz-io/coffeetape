@@ -1,9 +1,9 @@
-Coffeetape
+Coffeetape (Coffeescript 2.0.2)
 ----------
 
 Run [tape](https://github.com/substack/tape) tests written in coffeescript!
 
-To install: `npm install -g coffeetape`
+To install: `npm install -g @nhz.io/coffeetape`
 
 The command works exactly the same as the regular `tape` runner, just do `coffeetape test/*.coffee` to run your tests. You can pipe `coffeetape` into any standard tap reporter as you would expect.
 

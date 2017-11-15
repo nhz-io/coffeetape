@@ -1,5 +1,5 @@
 {
-  "name": "coffeetape",
+  "name": "@nhz.io/coffeetape",
   "version": "1.0.1",
   "description": "Run tape tests written in coffeescript",
   "main": "index.js",
@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/hflw/coffeetape",
   "dependencies": {
-    "coffee-script": "^1.9.1",
-    "tape": "^3.5.0"
+    "coffeescript": "^2.0.2",
+    "tape": "^4.8.0"
   }
 }
